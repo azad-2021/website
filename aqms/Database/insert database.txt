@@ -1,0 +1,2 @@
+INSERT INTO data (temp, hum, p, pm2.5, pm10, so2, co2, btemp, blevel)
+VALUES (32, 85, 1010.8,53,45,102.4,250.0,30,95);
